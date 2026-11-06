@@ -1,0 +1,33 @@
+﻿source,internal_name,base,base_kind,tone_curve,sharpening,saturation,mono,mode,output,card_file,notes
+24Look 24Frames.NP3,24Look 24Frames,0x0020,Flexible Color,yes,0,-1,no,enhanced,24Look 24Frames.NCP,PICCON01.NCP,hue/split-tone approximate
+AirGreen_Gunji.NP3,AirGreen_Gunji,0x0020,Flexible Color,yes,4,2,no,enhanced,AirGreen_Gunji.NCP,PICCON02.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Bluegrain_jyota.NP3,Bluegrain_jyota,0x0802,Morning,no,3,0,no,enhanced,Bluegrain_jyota.NCP,PICCON03.NCP,creative base approximate; creative curve approximated; clarity dropped; mid-sharpening dropped
+CafeCat yw.NP3,CafeCat yw,0x0020,Flexible Color,no,3,-1,no,enhanced,CafeCat yw.NCP,PICCON04.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Catgrain yw.NP3,Catgrain yw,0x0020,Flexible Color,no,2,0,no,enhanced,Catgrain yw.NCP,PICCON05.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+CINENigRed_Fuji.NP3,CINENigRed_Fuji,0x0020,Flexible Color,no,2,0,no,enhanced,CINENigRed_Fuji.NCP,PICCON06.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+ClrMode_Teal0r_01b.NP3,ClrMode_Teal0r_01b,0x0020,Flexible Color,no,2,0,no,enhanced,ClrMode_Teal0r_01b.NCP,PICCON07.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+CRYSClear_Eisuke.NP3,CRYSClear_Eisuke,0x0020,Flexible Color,no,2,0,no,enhanced,CRYSClear_Eisuke.NCP,PICCON08.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Cyanora_EyesOfBelga.NP3,Cyanora_EyesOfBelga,0x0020,Flexible Color,yes,3,2,no,enhanced,Cyanora_EyesOfBelga.NCP,PICCON09.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+FadedBlue_Hinami.NP3,FadedBlue_Hinami,0x0020,Flexible Color,no,2,0,no,enhanced,FadedBlue_Hinami.NCP,PICCON10.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Filmic_Fabio.NP3,Filmic_Fabio,0x0020,Flexible Color,yes,1,0,no,enhanced,Filmic_Fabio.NCP,PICCON11.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Golden_Grid_LKJ.NP3,Golden_Grid_LKJ,0x0020,Flexible Color,no,3,1,no,enhanced,Golden_Grid_LKJ.NCP,PICCON12.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+GoldenBrownSiinapse.NP3,GoldenBrownSiinapse,0x0020,Flexible Color,no,4,0,no,enhanced,GoldenBrownSiinapse.NCP,PICCON13.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Green Soul_Wong.NP3,Green Soul_Wong,0x0020,Flexible Color,no,2,0,no,enhanced,Green Soul_Wong.NCP,PICCON14.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Heartwarming_YoheiS.NP3,Heartwarming_YoheiS,0x0020,Flexible Color,yes,6,0,no,enhanced,Heartwarming_YoheiS.NCP,PICCON15.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Hidamari_Haruka.NP3,Hidamari_Haruka,0x0020,Flexible Color,no,2,0,no,enhanced,Hidamari_Haruka.NCP,PICCON16.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Japanesque_Arashida.NP3,Japanesque_Arashida,0x0020,Flexible Color,yes,2,1,no,enhanced,Japanesque_Arashida.NCP,PICCON17.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+MOSS_Nagisa.NP3,MOSS_Nagisa,0x0020,Flexible Color,yes,1,0,no,enhanced,MOSS_Nagisa.NCP,PICCON18.NCP,hue/split-tone approximate; mid-sharpening dropped
+MovieG&O_InstantF.NP3,MovieG&O_InstantF,0x0020,Flexible Color,no,2,0,no,enhanced,MovieG&O_InstantF.NCP,PICCON19.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+MV GreenOrange.NP3,MV GreenOrange,0x0020,Flexible Color,no,5,1,no,enhanced,MV GreenOrange.NCP,PICCON20.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Negative_Cy_01a.NP3,Negative_Cy_01a,0x0020,Flexible Color,no,2,0,no,enhanced,Negative_Cy_01a.NCP,PICCON21.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Pale Tale by Yuri.NP3,Pale Tale by Yuri,0x0020,Flexible Color,yes,2,1,no,enhanced,Pale Tale by Yuri.NCP,PICCON22.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+PinkWater_HYEYA.NP3,PinkWater_HYEYA,0x0020,Flexible Color,no,1,0,no,enhanced,PinkWater_HYEYA.NCP,PICCON23.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+QUIET_Nagisa.NP3,QUIET_Nagisa,0x0020,Flexible Color,yes,1,1,no,enhanced,QUIET_Nagisa.NCP,PICCON24.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Summertime_Zerletti.NP3,Summertime_Zerletti,0x0020,Flexible Color,no,0,2,no,enhanced,Summertime_Zerletti.NCP,PICCON25.NCP,hue/split-tone approximate; mid-sharpening dropped
+Vibrant_Lamoureux.NP3,Vibrant_Lamoureux,0x0020,Flexible Color,no,2,1,no,enhanced,Vibrant_Lamoureux.NCP,PICCON26.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+VINTAGEFla_Fuji.NP3,VINTAGEFla_Fuji,0x0020,Flexible Color,yes,2,0,no,enhanced,VINTAGEFla_Fuji.NCP,PICCON27.NCP,hue/split-tone approximate; mid-sharpening dropped
+VintageM_Tsakai.NP3,VintageM_Tsakai,0x0020,Flexible Color,yes,2,1,no,enhanced,VintageM_Tsakai.NCP,PICCON28.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+VINTAGEPort_Fuji.NP3,VINTAGEPort_Fuji,0x0020,Flexible Color,no,2,0,no,enhanced,VINTAGEPort_Fuji.NCP,PICCON29.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+VitalityFilm_Pmango.NP3,VitalityFilm_Pmango,0x0020,Flexible Color,no,4,0,no,enhanced,VitalityFilm_Pmango.NCP,PICCON30.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Winter Hues_Eeva.NP3,Winter Hues_Eeva,0x0020,Flexible Color,yes,2,1,no,enhanced,Winter Hues_Eeva.NCP,PICCON31.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
+Yuragi Hinami.NP3,Yuragi Hinami,0x0020,Flexible Color,no,2,1,no,enhanced,Yuragi Hinami.NCP,PICCON32.NCP,hue/split-tone approximate; clarity dropped; mid-sharpening dropped
