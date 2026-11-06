@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "np3-to-ncp-nikon"
+version = "0.1.0"
+description = "Convert Nikon Flexible Color .NP3 recipes to classic .NCP Picture Controls for Z6II / older Z bodies"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "BourneYan" }]
+keywords = ["nikon", "picture-control", "ncp", "np3", "z6ii"]
+dependencies = []
+
+[project.scripts]
+np3-to-ncp = "np3_to_ncp:main"
+
+[tool.setuptools]
+py-modules = ["np3_to_ncp"]
